@@ -1,4 +1,8 @@
 
-public class testclass {
-
+public class testclass 
+{
+	public testclass()
+	{
+		//a constructor
+	}
 }
